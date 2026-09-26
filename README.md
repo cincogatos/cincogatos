@@ -32,5 +32,4 @@
 - Automatizaciones confiables para análisis y toma de decisiones.
 - Experiencias digitales simples, visuales y orientadas a impacto.
 
-<p align="center"><i>Abierto a colaborar en desafíos de desarrollo full stack, cloud e IA aplicada.</i></p>
 <p align="center"><a href="https://github.com/cincogatos">github.com/cincogatos</a> · <a href="https://www.linkedin.com/in/sebastian-morales-olivos/">LinkedIn</a></p>
