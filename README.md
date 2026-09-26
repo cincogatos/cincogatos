@@ -27,32 +27,6 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,html,css,docker,gcp,postgres&theme=dark" alt="Tecnologías principales" /></p>
 <p align="center"><img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" /> <img src="https://img.shields.io/badge/Power%20Platform-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Platform" /> <img src="https://img.shields.io/badge/Claude%20Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /></p>
 
-## 🧩 Cómo convierto un problema en una solución
-
-```mermaid
-flowchart TB
-  P[🔎 Problema o necesidad<br/>de negocio] --> F[🧠 Entender el flujo<br/>usuarios · reglas · datos]
-  F --> D[🧭 Diseñar experiencia<br/>vista y comportamiento]
-  D --> A[🏗️ Definir solución<br/>arquitectura · datos · APIs]
-  A --> I[⚙️ Desarrollo e integración<br/>frontend · backend · IA]
-  I --> V[✅ Validación e iteración<br/>feedback · ajustes · calidad]
-  V --> O[📈 Solución clara<br/>y escalable]
-  C[☁️ Cloud · datos · IA] --> A
-
-  classDef problem fill:#7c3aed,stroke:#c4b5fd,color:#ffffff,stroke-width:2px;
-  classDef discovery fill:#4338ca,stroke:#a5b4fc,color:#ffffff,stroke-width:2px;
-  classDef design fill:#2563eb,stroke:#93c5fd,color:#ffffff,stroke-width:2px;
-  classDef build fill:#0f172a,stroke:#38bdf8,color:#ffffff,stroke-width:2px;
-  classDef impact fill:#065f46,stroke:#6ee7b7,color:#ffffff,stroke-width:2px;
-  classDef foundation fill:#172554,stroke:#60a5fa,color:#ffffff,stroke-width:2px;
-
-  class P problem;
-  class F discovery;
-  class D design;
-  class A,I build;
-  class V,O impact;
-  class C foundation;
-```
 
 - Plataformas con IA que amplían la capacidad operativa de los equipos.
 - Automatizaciones confiables para análisis y toma de decisiones.
