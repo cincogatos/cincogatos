@@ -1,16 +1,33 @@
-## Hi there 👋
+# Sebastián Morales Olivos
 
-<!--
-**cincogatos/cincogatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer - AI
 
-Here are some ideas to get you started:
+Construyo plataformas empresariales que combinan desarrollo full stack, automatización e inteligencia artificial para resolver procesos complejos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Enfoque: IA aplicada, automatización, APIs y productos digitales.
+- ☁️ Cloud: Google Cloud Platform y despliegues con Docker.
+- 🧩 Trabajo end-to-end: arquitectura, frontend, backend, datos y validación con usuarios.
+- 📍 Santiago, Chile.
+
+## Stack
+
+| Área | Tecnologías |
+| --- | --- |
+| Lenguajes | Python · TypeScript · JavaScript · SQL · HTML · CSS |
+| Cloud y despliegue | Google Cloud · Docker · Dockerfile · Makefile |
+| IA y desarrollo | LLMs · APIs · Claude Code · Codex |
+| Datos y automatización | SQL · Power Platform · Power BI · SharePoint |
+
+## Qué me interesa construir
+
+- Plataformas de IA que aumenten la capacidad operativa de los equipos.
+- Automatizaciones confiables para procesos de negocio y análisis.
+- Productos digitales claros, útiles y pensados para las personas que los usan.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-morales-olivos/) · [GitHub](https://github.com/cincogatos)
+
+---
+
+_Abierto a colaborar en desafíos de desarrollo full stack, cloud e IA aplicada._
