@@ -3,19 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-morales-olivos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/sebastian-morales-olivos/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Santiago%2C%20Chile-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
 
 <h2 align="center">Construyo productos donde la ingeniería se encuentra con la IA</h2>
 
-<p align="center">
-  Desarrollo plataformas empresariales end-to-end para automatizar procesos complejos, conectar datos y crear experiencias útiles para sus usuarios.
-</p>
-
-<br/>
+<p align="center">Desarrollo plataformas empresariales end-to-end para automatizar procesos complejos, conectar datos y crear experiencias útiles para sus usuarios.</p>
 
 <table>
   <tr>
@@ -54,26 +48,31 @@
   <img src="https://img.shields.io/badge/Codex-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
-## 🎯 Intereses de construcción
+## 🎯 Del problema al impacto
 
-```text
-[ IA aplicada ] ──► [ Automatización ] ──► [ Procesos más claros y escalables ]
-       │                      │
-       └─────► [ Datos + APIs + Cloud ]
+```mermaid
+flowchart LR
+  A[🤖 IA aplicada] --> B[⚙️ Automatización]
+  B --> C[📈 Procesos claros<br/>y escalables]
+  D[☁️ Datos · APIs · Cloud] --> B
+
+  classDef ai fill:#7c3aed,stroke:#c4b5fd,color:#ffffff,stroke-width:2px;
+  classDef automation fill:#2563eb,stroke:#93c5fd,color:#ffffff,stroke-width:2px;
+  classDef impact fill:#0f172a,stroke:#38bdf8,color:#ffffff,stroke-width:2px;
+  classDef foundation fill:#172554,stroke:#60a5fa,color:#ffffff,stroke-width:2px;
+
+  class A ai;
+  class B automation;
+  class C impact;
+  class D foundation;
 ```
 
 - Plataformas con IA que amplían la capacidad operativa de los equipos.
 - Automatizaciones confiables para análisis y toma de decisiones.
 - Experiencias digitales simples, visuales y orientadas a impacto.
 
-<p align="center">
-  <i>Abierto a colaborar en desafíos de desarrollo full stack, cloud e IA aplicada.</i>
-</p>
+<p align="center"><i>Abierto a colaborar en desafíos de desarrollo full stack, cloud e IA aplicada.</i></p>
 
-<p align="center">
-  <a href="https://github.com/cincogatos">github.com/cincogatos</a> · <a href="https://www.linkedin.com/in/sebastian-morales-olivos/">LinkedIn</a>
-</p>
+<p align="center"><a href="https://github.com/cincogatos">github.com/cincogatos</a> · <a href="https://www.linkedin.com/in/sebastian-morales-olivos/">LinkedIn</a></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=100&section=footer" width="100%" />
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=100&section=footer" width="100%" /></p>
